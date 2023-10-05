@@ -6,10 +6,9 @@ This project used a Jypter Notebook to automate tagging the senses of each emoji
 - They are ambiguous and subjective as their meanings are inferenced from text
 - They do not have word equivalence and take on their own unique meanings
 - They are extreme homonyms
+
+  
 ![Screenshot 2023-10-05 at 11 16 21](https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/bb58e8d2-343f-42f0-b117-823ca6ca0418)
-
-
-![Screenshot 2023-10-05 at 11 16 47](https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/da76b1ea-3d52-4e68-ac2e-4863271a25ce)
 
 
 <img width="902" alt="Screenshot 2023-10-05 at 11 21 14" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/3ef58414-dc09-46de-88be-7a6423670147">
