@@ -11,7 +11,11 @@ e.g. Emojipedia interpretation of 'Upside-Down Face' 🙃 : Commonly used to con
 
 ![Screenshot 2023-10-05 at 11 16 21](https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/bb58e8d2-343f-42f0-b117-823ca6ca0418)
 
-## The Algorithm 
+## Emoji Embeddings
+
+<img width="382" alt="Screenshot 2023-10-05 at 11 34 34" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/e5057a22-6b53-4ecc-bc4b-db90e25fdc99">
+
+
 
 <img width="902" alt="Screenshot 2023-10-05 at 11 21 14" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/3ef58414-dc09-46de-88be-7a6423670147">
 
