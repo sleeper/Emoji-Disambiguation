@@ -1,5 +1,11 @@
 # Emoji-Disambiguation
-Datasets for disambiguating the most popular emojis. 
+This project used a Jypter Notebook to automate tagging the senses of each emoji. The results are datasets for disambiguating the most popular emojis. 
+
+## The problem
+- Emojis do not have explicit dictionary meanings like words
+- They are ambiguous and subjective as their meanings are inferenced from text
+- They do not have word equivalence and take on their own unique meanings
+- They are extreme homonyms
 ![Screenshot 2023-10-05 at 11 16 21](https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/bb58e8d2-343f-42f0-b117-823ca6ca0418)
 
 
