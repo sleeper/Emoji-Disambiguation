@@ -26,7 +26,8 @@ e.g. Emojipedia interpretation of 'Upside-Down Face' 🙃 : Commonly used to con
 2. Take the emoji of the corresponding Tweet. Embed all of its different senses.
 3. Find the closest cosine similarity between the text of the Tweet and the emoji sense embedding. 
 
-Image from 'One emoji, many meanings: A corpus for the prediction and disambiguation of emoji sense' who have implemented the first ever emoji lesk algorithm. 
+Image from 'One emoji, many meanings: A corpus for the prediction and disambiguation of emoji sense' who have implemented the first emoji lesk algorithm. 
+
 <img width="353" alt="Screenshot 2023-10-05 at 11 39 06" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/f965328b-64dc-4a4f-982b-ae6048841d1c">
 
 ## Dataset Methodology 
