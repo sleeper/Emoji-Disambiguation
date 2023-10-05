@@ -1,4 +1,4 @@
-# Emoji Disambiguation
+# Emoji Disambiguation 🤔
 This project used a Jypter Notebook to automate tagging the senses of each emoji. The results are datasets for disambiguating the most popular emojis. 
 
 ## The problem
