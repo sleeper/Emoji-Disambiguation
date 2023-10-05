@@ -1,5 +1,6 @@
 # Emoji Sense Disambiguation 🤔
-This project used a semi-automated tagging system to label each of the emoji's senses. The resulting datasets are for disambiguating the most popular emojis. These datasets were tested on an Emoji-Lesk algorithm and outperformed all previous datasets. 
+This project used a semi-automated tagging system to categorise the various senses associated with each emoji. The resulting datasets were specifically designed to enhance the disambiguation of the most widely used emojis. Subsequently, these datasets were subjected to testing using an Emoji-Lesk algorithm, demonstrating superior performance compared to all preceding datasets.
+
 
 ## The problem
 - Emojis do not have explicit dictionary meanings like words
