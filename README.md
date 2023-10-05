@@ -9,9 +9,13 @@ This project used a Jypter Notebook to automate tagging the senses of each emoji
 
 e.g. Emojipedia interpretation of 'Upside-Down Face' 🙃 : Commonly used to convey irony, sarcasm, joking, or a sense of goofiness or silliness. 
 
-![Screenshot 2023-10-05 at 11 16 21](https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/bb58e8d2-343f-42f0-b117-823ca6ca0418)
+<img width="760" alt="Screenshot 2023-10-05 at 11 37 19" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/d23139ad-d40a-4d10-8e83-0b89124e049a">
 
 ## Emoji Embeddings
+
+- Emoji embeddings are vector represenations of emoji meanings
+- All current methods are not context dependent. Often key words describing the emoji are used to embed it
+- This means the wrong meaning of the emoji is often assigned
 
 <img width="382" alt="Screenshot 2023-10-05 at 11 34 34" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/e5057a22-6b53-4ecc-bc4b-db90e25fdc99">
 
