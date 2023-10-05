@@ -1,5 +1,5 @@
 # Emoji Sense Disambiguation 🤔
-This project used a Jypter Notebook to automate tagging the senses of each emoji. The results are datasets for disambiguating the most popular emojis. 
+This project used a semi-automated tagging system to label each of the emoji's senses. The resulting datasets are for disambiguating the most popular emojis. These datasets were tested on an Emoji-Lesk algorithm and outperformed all previous datasets. 
 
 ## The problem
 - Emojis do not have explicit dictionary meanings like words
