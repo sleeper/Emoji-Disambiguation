@@ -43,8 +43,7 @@ The open source software 'tortus' was used to label the dataset. Tweets were fee
 <img width="741" alt="Screenshot 2023-10-05 at 11 46 57" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/2347b34c-8e20-4ff6-a889-3f5603a33674">
 
 ## Datasets
-
-The datasets ahve been double annotated and have a good Cohens Kappa score of 0.6, which is a measure of aggreement between the anatators taking into account random chance.
+The datasets have been double annotated, resulting in a commendable Cohen's Kappa score of 0.6. This score quantifies the level of agreement between the annotators while considering the possibility of random chance.
 
 ## Results of Datasets using Emoji-Lesk Algorithm
 
