@@ -14,8 +14,8 @@ e.g. Emojipedia interpretation of 'Upside-Down Face' 🙃 : Commonly used to con
 
 ## Emoji Embeddings
 
-- Emoji embeddings are vector represenations of emoji meanings
-- All current methods are not context dependent. Often key words describing the emoji are used to embed it
+- Emoji embeddings are vector representations of emoji meanings
+- All current methods are not context-dependent. Often key keywords describing the emoji are used to embed it
 - This means the wrong meaning of the emoji is often assigned
 
 <img width="382" alt="Screenshot 2023-10-05 at 11 34 34" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/e5057a22-6b53-4ecc-bc4b-db90e25fdc99">
@@ -32,7 +32,7 @@ Image from 'One emoji, many meanings: A corpus for the prediction and disambigua
 
 ## Dataset Methodology 
 
-For each emoji, a distinctive collection of sense words were selected using WordNet using online dictionaries.
+For each emoji, a distinctive collection of sense words was selected using WordNet using online dictionaries.
 
 <img width="394" alt="Screenshot 2023-10-05 at 11 43 44" src="https://github.com/elenabarry/Emoji-Disambiguation/assets/53048127/d42d2b55-7c3e-4f25-b553-811122953208">
 
